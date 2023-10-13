@@ -1,0 +1,16 @@
+input{
+    width:100%;
+    padding: 20px;
+    background-color: black;
+    color:white;
+}
+.c{
+    background-color: rgb(55, 136, 124);
+}
+.op{
+    background-color: rgb(99, 91, 81);
+}
+#result{
+    background-color: white;
+    color:black;
+}
